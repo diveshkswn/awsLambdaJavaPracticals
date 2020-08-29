@@ -5,6 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>lambda-java-example</name>
   <description>Lambda sample Project</description>
+	
+	
+<!--For AWS Code build -->
+	
+<properties>
+       <maven.compiler.source>1.8</maven.compiler.source>
+       <maven.compiler.target>1.8</maven.compiler.target>
+</properties>	
   
   <dependencies>
   <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-lambda-java-core -->
