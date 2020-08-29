@@ -6,10 +6,7 @@
   <name>lambda-ddb-function</name>
   <description>This is a basic lambda function to get and put data from dynamodb</description>
 
-<properties>
-       <maven.compiler.source>1.6</maven.compiler.source>
-       <maven.compiler.target>1.6</maven.compiler.target>
-</properties>	
+	
 	
 	
 <dependencies>
